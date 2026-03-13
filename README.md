@@ -1,2 +1,3 @@
 # Proyecto-Streamlit
-Repositorio de practica para el curso
+Repositorio de practica para el curso IA OH
+
